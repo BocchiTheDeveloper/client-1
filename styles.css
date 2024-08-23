@@ -80,3 +80,23 @@ body {
     background-color: #f0f0f0; /* Fallback color to see if the area is styled */
     border: 2px solid #ccc; /* Border to visualize the content area */
 }
+
+#text {
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+    margin-right: 50%;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+a:hover {
+    color: darkblue;
+}
+
+li {
+    margin-bottom: 10px;
+}
